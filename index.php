@@ -3,7 +3,7 @@
 <?php 
 echo "<h4>Welcome to P1!</h4>"; 
 echo "testing workflow"; 
-echo "\n"; 
+echo "<br>";
 echo "re-testing workflow"; 
 ?> 
 </body> 
