@@ -1,17 +1,24 @@
-body {
+body 
+{
 font-family:helvetica, arial, sans-serif;
 color:#312f2e;
-width:80%;
+width:100%;
 text-align:center;
-margin:100px 50px;
-background-color:bbdce9;
+margin:100px;
+background-color:#bbdce9;
 }
 
-div {
+div 
+{
 border:2px solid;
 border-radius:25px;
-font-size: 100%;
-background-color:fff;
+background-color:#fff;
+text-align:justify;
+}
+
+p 
+{
+	font-size: medium;
 }
 
 a:link,a:visited {
