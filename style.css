@@ -2,9 +2,9 @@ body
 {
 font-family:helvetica, arial, sans-serif;
 color:#312f2e;
-width:100%;
+width:90%;
 text-align:center;
-margin:100px;
+margin:100px 50px;
 background-color:#bbdce9;
 }
 
@@ -18,8 +18,10 @@ text-align:justify;
 
 p 
 {
-	font-size: medium;
+font-size: medium;
+margin:25px;
 }
+
 
 a:link,a:visited {
 color:#312f2e;
