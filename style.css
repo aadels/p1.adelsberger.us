@@ -1,13 +1,24 @@
 body		{font-family: helvetica, arial, sans-serif;
-			color: #d05721;
+			color: #f9870c;
 			margin:100px 50px;
-			width: 90%;
+			width: 85%;
 			text-shadow:1px 1px 2px #a19fa0;
 			font-size: 150%;
 			font-weight: bold;
 }
+
 p			{text-align:justify;
 
-
 }
+a:link 		{color:#f9870c;
+}   
+
+a:visited 	{color:#f9870c;
+} 
+
+a:hover 	{color:#0c33f9;
+}  
+
+a:active 	{color:#0c33f9;
+}  
 		
