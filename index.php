@@ -8,7 +8,7 @@
     </head>
 	<body> 
 		<?php 
-			echo 	"<h2>Ann Adelsberger</h2>"; 
+			echo 	"<h1>Ann Adelsberger</h1>"; 
 			echo 	"<p>I live in Somerville, MA and work full time at the ";
 		 
 			echo	"<a href= http://libraries.mit.edu>MIT Libraries</a>";
