@@ -1,7 +1,7 @@
 <html> 
 <body> 
 <?php 
-echo "<h4>Ann Adelsberger/h4>"; 
+echo "<h4>Ann Adelsberger</h4>"; 
 echo "I live in Somerville, MA and work full time at MIT Libraries in the Communications 
 Department. I am a degree candidate in the ALM Digital Media and Instructional Design program. 
 This will be my last semester of coursework before statring my thesis project. I'm enrolled in
