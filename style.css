@@ -2,14 +2,16 @@ body {
 font-family:helvetica, arial, sans-serif;
 color:#312f2e;
 width:80%;
-font-size:100%;
 text-align:center;
 margin:100px 50px;
+background-color:bbdce9;
 }
 
 div {
 border:2px solid;
 border-radius:25px;
+font-size: 100%;
+background-color:fff;
 }
 
 a:link,a:visited {
