@@ -17,6 +17,11 @@ text-align:justify;
 margin:25px;
 }
 
+hr 
+{
+width:20%;	
+}
+
 p 
 {
 font-size: medium;
