@@ -1,8 +1,12 @@
 body		{font-family: helvetica, arial, sans-serif;
-			background-color: #e1e3e5;
-			color: #4177ac;
+			color: #dc496c;
+			margin:100px 50px;
 			width: 90%;
+			text-shadow:2px 2px 4px #a19fa0;
+			font-size: 200%;
 }
 p			{text-align:justify;
+
+
 }
 		
