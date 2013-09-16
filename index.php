@@ -13,13 +13,13 @@
 		 
 			echo	"<a href= http://libraries.mit.edu>MIT Libraries</a>";
 		
-			echo	" in the Communications Department. I am a degree candidate in the ALM Digital Media and Instructional Design program. 
-					This will be my last semester of coursework, and in January I will start work on my my thesis project. I'm enrolled in
-					DGMD E-30 (Video Field Production) as well as CSCI E-15. My programming skills are fairly modest atthis point. I took 
+			echo	" in the Communications Department. I am a degree candidate in the ALM Digital Media & Instructional Design program. 
+					Fall 2013 will be my last semester of coursework, and in January I start work on my my thesis project. I'm enrolled in
+					DGMD E-30 (Video Field Production) as well as CSCI E-15. My programming skills are fairly modest at this point. I took 
 					CSCI E-52 last fall and learned basic PHP for my final project. Learning programming in CSCI E-52 was like drinking 
 					from a firehose, so I am really looking forward to learning more PHP at what I'm sure will be a challenging but 
 					more reasonable pace. I have some experience with GIS and would also like to learn Python in order to take on some more 
-					complex projects using ArcGIS. I am also a huge fan of PhotoJoJo, especially the "; 
+					complex projects using ArcGIS. I am a HUGE fan of PhotoJoJo, especially the "; 
 		 
 			echo	"<a href= http://content.photojojo.com/>Inspiration & Projects</a>";
 		
