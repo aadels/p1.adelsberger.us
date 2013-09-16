@@ -9,7 +9,7 @@
 	<body> 
 		<?php 
 			echo 	"<h4>Ann Adelsberger</h4>"; 
-			echo 	<p> "I live in Somerville, MA and work full time at the"
+			echo 	"I live in Somerville, MA and work full time at the"
 		 
 			echo	<a href= "http://libraries.mit.edu">MIT Libraries</a> 
 		
