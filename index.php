@@ -11,7 +11,7 @@
 			echo 	"<h4>Ann Adelsberger</h4>"; 
 			echo 	"I live in Somerville, MA and work full time at the";
 		 
-			echo	"<a href= http://libraries.mit.edu>MIT Libraries</a>"
+			echo	"<a href= http://libraries.mit.edu>MIT Libraries</a>";
 		
 			echo	"in the Communications Department. I am a degree candidate in the ALM Digital Media and Instructional Design program. 
 					This will be my last semester of coursework and in January I will start work on my my thesis project. I'm enrolled in
@@ -21,7 +21,7 @@
 					more reasonable pace. I have some experience with GIS and would also like to learn Python in order to take on some more 
 					complex projects using ArcGIS. I am also a huge fan of PhotoJoJo, especially the"; 
 		 
-			echo	"<a href= http://content.photojojo.com/> Inspriation & Projects </a>"
+			echo	"<a href= http://content.photojojo.com/> Inspriation & Projects </a>";
 		
 			echo 	"section! I am using Sublime Text as my text editor."; 
 
